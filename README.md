@@ -1,1 +1,2 @@
-# Projects
+# Projects Repository
+Welcome to my projects repository! This repository serves as a centralized hub for managing and documenting the various academic and personal projects I am working on during my graduate studies. Each project is organized into its own directory, containing source code, documentation, and relevant resources. Feel free to explore, collaborate, and contribute to any project that interests you. Let's build something great together!
